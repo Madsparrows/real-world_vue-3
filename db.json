@@ -1,32 +1,36 @@
 {
   "audiences": [
     {
-      "id": 123,
+      "id": 1,
       "name": "Dental",
       "audienceSize": "10,000",
       "externalID": "134324",
       "source": "Facebook, Verizon",
       "description": "Patientpop, Nexhealth"
     },
-    {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "organizer": "Fern Pollin"
+     {
+      "id": 2,
+      "name": "Physicians",
+      "audienceSize": "15,000",
+      "externalID": "134324",
+      "source": "Facebook",
+      "description": "All"
     },
-    {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "organizer": "Carey Wales"
+     {
+      "id": 3,
+      "name": "Doctors",
+      "audienceSize": "25,000",
+      "externalID": "387231",
+      "source": "Verizon",
+      "description": "Patientpop"
+    },
+         {
+      "id": 4,
+      "name": "IT technicians",
+      "audienceSize": "12,000",
+      "externalID": "837231",
+      "source": "Facebook",
+      "description": "Patientpop, Nexhealth, Planmeca"
     }
   ]
 }
